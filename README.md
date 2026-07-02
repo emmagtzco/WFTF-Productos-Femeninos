@@ -10,6 +10,5 @@ Conoce qué contienen algunos productos femeninos de uso cotidiano y cómo puede
 
 | Sección | ¿Qué encontrarás? | Link |
 |---|---|---|
-| Maquillaje | Ingredientes comunes, posibles irritantes y riesgos en la piel. | [Ver página](./ContenidoDeToallasFemeninas(Marcas).md) |
 | Jabones íntimos | Fragancias, pH, alteraciones en la microbiota y recomendaciones. | [Ver página](./JabonesIntimos.md) |
-| Toallas femeninas | Materiales, plásticos, blanqueadores y contacto prolongado con la piel. | [Ver página](./ContenidoDeToallasFemeninas(Marcas).md) |
+| Toallas femeninas y Maquillaje | Materiales, plásticos, blanqueadores y contacto prolongado con la piel. Ingredientes comunes, posibles irritantes y riesgos en la piel.| [Ver página](./ContenidoDeToallasFemeninas(Marcas).md) |
