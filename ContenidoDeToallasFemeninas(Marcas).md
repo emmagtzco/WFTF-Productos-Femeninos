@@ -120,6 +120,13 @@ Esta información es de carácter divulgativo. Si tienes irritación, alergias o
 - [Naturella México — De qué material están hechas](https://www.naturella.com.mx/tu-periodo/esos-dias/de-que-material-estan-hechas-las-toallas-femeninas-naturella/)
 - [Wikipedia — Toalla sanitaria](https://es.wikipedia.org/wiki/Toalla_sanitaria)
 - [cnhft.com — Proceso de fabricación de toallas sanitarias](https://es.cnhft.com/blog/sanitary-napkin-manufacturing-process_b58)
+- [Compuestos tóxicos en los productos menstruales: esto es lo que sabemos]
+(https://pmc.ncbi.nlm.nih.gov/articles/PMC9876534/
+)
+- [Productos menstruales como fuente de exposición a sustancias químicas ambientales: una revisión desde la perspectiva epidemiológica]
+(
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC9876534/
+)
 
 ---
 
