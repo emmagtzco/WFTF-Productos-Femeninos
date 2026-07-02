@@ -84,6 +84,11 @@ Según la información oficial de la marca:
 
 ---
 
+### 🔹 Marca 4: TEIA (maquillaje sin disruptores endocrinos)
+> TEIA Cosméticos es una marca mexicana de cosmética natural, vegana y sustentable. Fundada en Guadalajara por las hermanas Cristina y Carla Mejía, se enfoca en productos "clean beauty" (belleza limpia) que combinan maquillaje y cuidado de la piel (skincare) usando ingredientes naturales y empaques ecológicos.
+
+---
+
 ## 3. Tabla comparativa resumida
 
 | Ingrediente / componente | Always | Kotex | Naturella |
